@@ -62,5 +62,5 @@ This simulation is inspired by the Hindmarsh-Rose model and the paper "https://a
 
 This project is licensed under the [MIT License](LICENSE).
 
----
+
 For any questions or inquiries, please contact: victormeloasm@gmail.com
