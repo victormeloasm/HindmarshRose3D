@@ -14,7 +14,7 @@ The simulation involves modeling the electrical behavior of Hindmarsh-Rose neuro
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/[USERNAME]/[REPO_NAME].git
+   git clone https://github.com/victormeloasm/HindmarshRose3D.git
    ```
 
 2. Install MATLAB on your computer.
